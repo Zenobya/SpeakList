@@ -72,6 +72,17 @@ src/
 
 ---
 
+## ⚠️ Aviso importante
+
+A API está hospedada no plano gratuito do Render. 
+No plano gratuito o servidor entra em modo de espera após 15 minutos sem uso.
+
+Na primeira requisição pode demorar até **1 minuto** para responder — 
+é o tempo que o servidor leva para "acordar". 
+Após a primeira resposta funciona normalmente! 😊
+
+---
+
 ## 🧪 Como testar a API
 
 A API está disponível em:
